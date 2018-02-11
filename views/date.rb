@@ -1,6 +1,7 @@
+require 'date'
 <!DOCTYPE html>
 <html>
     <body>
-      <p> Hello </p>
+      <p>  </p>
     </body>
 </html>
