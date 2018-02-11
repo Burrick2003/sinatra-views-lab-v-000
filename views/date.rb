@@ -3,6 +3,7 @@
     <body>
       <% require 'date' %>
       <% date = Date.today %>
-      <h1>The date is <%= date %></h1>
+      <h1>Today</h1>
+      <p>The date is <%= date %></p>
     </body>
 </html>
