@@ -1,7 +1,7 @@
-require 'date'
 <!DOCTYPE html>
 <html>
     <body>
-      <p>  </p>
+      <% name = "Joe" %>
+      <h1>Goodbye <%= name %></h1>
     </body>
 </html>
